@@ -12,7 +12,7 @@ public class FrontDesk {
 	{
 		
 		JOptionPane.showMessageDialog(null, "Welcome to THM Handyman Store");
-		JOptionPane.showMessageDialog(null, "The following are records of the database");
+		System.out.println("The following are records of the database");
 		/*
 		 * Call methods from class TheStore
 		 */
